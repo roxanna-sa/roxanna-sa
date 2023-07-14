@@ -17,7 +17,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :sparkling_heart: In my free time, I enjoy reading fantasy and learning new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/roxana-marcela-soto-acosta)
+- :email:How to reach me: roxanna.sa@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
