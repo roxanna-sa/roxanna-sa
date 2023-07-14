@@ -9,7 +9,7 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
+### :girl: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope:Frontend software developer. Passionate about UX.
 
