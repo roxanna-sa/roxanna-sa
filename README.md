@@ -12,12 +12,10 @@
 ### :girl: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope:Frontend software developer. Passionate about UX.
-
 - :seedling: Gradually exploring backend languages.
-
 - :sparkling_heart: In my free time, I enjoy reading fantasy and learning new technologies.
-
 - :email:How to reach me: roxanna.sa@gmail.com
+- :dancers:¿Wanna be besties? Bring some chips & let's code something fun.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
