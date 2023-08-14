@@ -50,8 +50,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
 <div style="display: flex; flex-direction: row">
-<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=roxanna-sa&theme=tokyonight-duo" />
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=roxanna-sa&show_icons=true&theme=transparent" />
+  <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=roxanna-sa&theme=tokyonight-duo" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=roxanna-sa&show_icons=true&theme=transparent" />
 </div>
 
 
