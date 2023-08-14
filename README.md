@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   ![Header](./banner.png)
+   <img src="https://raw.githubusercontent.com/roxanna-sa/roxanna-sa/main/banner.png">
    <div id="badge">
    <a href="http://www.linkedin.com/in/roxana-marcela-soto-acosta">
      <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
