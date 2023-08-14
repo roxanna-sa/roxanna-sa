@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://cdn.dribbble.com/users/279765/screenshots/6394444/girlworking_2x.png" width="150"/>
+  
    <div id="badge">
    <a href="http://www.linkedin.com/in/roxana-marcela-soto-acosta">
      <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
