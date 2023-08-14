@@ -4,7 +4,7 @@
    <a href="http://www.linkedin.com/in/roxana-marcela-soto-acosta">
      <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <img src="https://komarev.com/ghpvc/?username=roxanna-sa&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=roxanna-sa&style=flat-square&color=blueviolet" alt=""/>
 </div>
 </div>
 
@@ -49,7 +49,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roxanna-sa&theme=tokyonight-duo)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxanna-sa&show_icons=true&theme=transparent)
-
+<div style="display: flex; flex-direction: row">
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=roxanna-sa&theme=tokyonight-duo" />
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=roxanna-sa&show_icons=true&theme=transparent" />
+</div>
 
 
