@@ -9,7 +9,7 @@
 </div>
 
 ---
-### :girl: About Me :
+### 👧 About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope:Frontend software developer. Passionate about UX.
 - :seedling: Gradually exploring backend languages.
@@ -17,7 +17,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - ✉️  How to reach me: roxanna.sa@gmail.com
 - :dancers:Wanna be besties? Bring some chips & let's code something fun.
 
-### :hammer_and_wrench: Languages, frameworks & libraries :
+### 🔨 Languages, frameworks & libraries :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
